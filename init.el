@@ -7,3 +7,5 @@
 (load (expand-file-name "init.d/init-straight.el" user-emacs-directory))
 
 (use-package magit)
+
+(use-package org-roam)
